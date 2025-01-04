@@ -5,5 +5,5 @@
 
 
 <h2>Frontend Olarak</h2>
-<h3></h3>Html,Css,Javascript</h3>
+<h3>Html,Css,Javascript</h3>
 
